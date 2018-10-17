@@ -1,2 +1,3 @@
 hello friends...welcome to GIT...
+git is a distributed version control system
 
